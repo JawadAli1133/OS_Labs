@@ -14,7 +14,8 @@
 <h2 id="step-2-create-a-new-virtual-machine">Step 2: Create a new Virtual Machine</h2>
 <ol>
 <li>Once the VMware Workstation is installed, open the application.</li>
-<li>Click on <strong>“Create a New Virtual Machine”</strong> to start the virtual machine creation wizard.</li>
+<li>Click on <strong>“Create a New Virtual Machine”</strong> to start the virtual machine creation wizard.<br>
+<img src="Images/1.png" alt="Creating new Virtual Machine"></li>
 </ol>
 <h2 id="step-3-select-the-iso-file">Step 3: Select the ISO file</h2>
 <ol>
