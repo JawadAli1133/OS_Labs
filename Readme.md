@@ -83,7 +83,7 @@ You should see the “Hello World” output.<br>
 <p>Open the terminal in Ubuntu and execute the following command to install the G++ compiler for the C++ language:<br>
 <strong>"sudo apt install g++"</strong><br>
 If prompted, type ‘y’ and press Enter to confirm the installation.<br>
-<img src="Images/11.jpg" alt="Installing g++"></p>
+<img src="Images/12.jpg" alt="Installing g++"></p>
 <h2 id="step-15-write-code-in-c-language">Step 15: Write code in C++ language</h2>
 <p>Open a text editor and write a simple “Hello World” program in C. Save the file as <strong>“code.cpp”</strong>.<br>
 <img src="Images/13.jpg" alt="Writing code in c++"></p>
