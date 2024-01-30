@@ -94,4 +94,6 @@ Now run you file by writing the command.<br>
 <strong>"./code.exe"</strong><br>
 You should see the “Hello World” output.<br>
 <img src="Images/14.jpg" alt="Writing code in c"></p>
+<h3 id="github-repository-link">Github Repository link</h3>
+<p><a href="https://github.com/JawadAli1133/OS_Labs">https://github.com/JawadAli1133/OS_Labs</a></p>
 
