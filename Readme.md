@@ -62,6 +62,36 @@
 <p><img src="Images/9.png" alt="Setting Username and Password"></p>
 <h2 id="step-10-complete-the-installation">Step 10: Complete the Installation</h2>
 <ol>
-<li>Once the installation is finished, Ubuntu will prompt you to remove the installation medium (the ISO file). Follow the instructions to eject the virtual disk and press Enter…</li>
+<li>Once the installation is finished, Ubuntu will prompt you to remove the installation medium (the ISO file). Follow the instructions to eject the virtual disk and press Enter.</li>
 </ol>
+<h2 id="step-11-install-gcc">Step 11: Install gcc</h2>
+<p>Open the terminal in Ubuntu and execute the following command to install the GCC compiler for the C language:<br>
+<strong>"sudo apt install gcc"</strong><br>
+If prompted, type ‘y’ and press Enter to confirm the installation.<br>
+<img src="Images/11.png" alt="Installing gcc"></p>
+<h2 id="step-12-write-code-in-c-language">Step 12: Write code in C language</h2>
+<p>Open a text editor and write a simple “Hello World” program in C. Save the file as <strong>"code1.c"</strong><br>
+<img src="Images/15.png" alt="Writing code in c"></p>
+<h2 id="step-13-run-your-code">Step 13: Run your code</h2>
+<p>In the terminal, convert your C code into an executable file named <strong>“code1.exe”</strong> using the following commands:<br>
+<strong>"gcc code1.c -o code1.exe"</strong><br>
+Now run you file by writing the command.<br>
+<strong>"./code1.exe"</strong><br>
+You should see the “Hello World” output.<br>
+<img src="Images/16.png" alt="Writing code in c"></p>
+<h2 id="step-14-install-g">Step 14: Install g++</h2>
+<p>Open the terminal in Ubuntu and execute the following command to install the G++ compiler for the C++ language:<br>
+<strong>"sudo apt install g++"</strong><br>
+If prompted, type ‘y’ and press Enter to confirm the installation.<br>
+<img src="Images/11.png" alt="Installing g++"></p>
+<h2 id="step-15-write-code-in-c-language">Step 15: Write code in C++ language</h2>
+<p>Open a text editor and write a simple “Hello World” program in C. Save the file as <strong>“code.cpp”</strong>.<br>
+<img src="Images/13.png" alt="Writing code in c++"></p>
+<h2 id="step-16-run-your-code">Step 16: Run your code</h2>
+<p>In the terminal, convert your C++ code into an executable file named <strong>“code.exe”</strong> using the following commands:<br>
+<strong>"g++ code.c -o code.exe"</strong><br>
+Now run you file by writing the command.<br>
+<strong>"./code.exe"</strong><br>
+You should see the “Hello World” output.<br>
+<img src="Images/14.png" alt="Writing code in c"></p>
 
