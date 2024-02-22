@@ -53,4 +53,6 @@
 <p><img src="Images/8.png" alt="Task8 Script"></p>
 <h3 id="execution-7">Execution</h3>
 <p><img src="Images/8e.png" alt="Task8 Script"></p>
+<h2 id="github-link">Github Link</h2>
+<p><a href="https://github.com/JawadAli1133/OS_Labs">https://github.com/JawadAli1133/OS_Labs</a></p>
 
